@@ -1,4 +1,4 @@
-Version: 1.0
+﻿Version: 1.0
 //name;id;state;heat;stacksize
 Cactus;cactus;S;50;64;vanilla
 Reeds;reeds;S;50;64;vanilla
