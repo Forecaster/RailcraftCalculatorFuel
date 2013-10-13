@@ -3,12 +3,16 @@ RailcraftCalculatorFuel
 
  -- Syntax --
 
-First line needs to be
+Version no longer needs to be the first line. It now searches for "Version=" so it can be positioned anywhere, or omitted, in which case it will not display the Version: line in the fuel list panel.
 
-Version: x
+Version syntax:
 
-Version scheme here is arbitrary. Currently only displayed when the file is selected.
-Not really important since this repository will replace the fuel list changelog.
+Version=x
+
+Version scheme here is arbitrary. Currently only displayed in the fuel list panel when the file is selected.
+Not really important anymore since this repository will replace the fuel list changelog.
+
+
 
 The rest of the file can either be comments, which is any line starting with //
 
