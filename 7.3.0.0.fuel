@@ -1,0 +1,38 @@
+Version: 2.0
+//name;id;state;heat;stacksize
+Alumentum;alumentum;S;6400;64
+Anthracite Coal Block;anthracite;S;6400;64
+Bituminous Peat;bituminouspeat;S;4200;64
+Blaze Rods;blazerods;S;800;64
+Block of Coal Coke;blockcoalcoke;S;57600;64
+Cactus;cactus;S;50;64
+Charcoal;charcoal;S;1600;64
+Coal;coal;S;3200;64
+Coal Coke;coalcoke;S;6400;64
+Creosote Oil;creosoteoil;L;4800;16
+Diesel;diesel;L;96000;64
+Ethanol;ethanol;L;32000;16
+Fuel;fuel;L;96000;16
+//Fuel Can;fuelcan;S;10000;1
+Hydrogen;hydrogen;L;2000;64
+//Ignatius Dust;ignatiusdust;S;3200;64
+Lava;lava;S;1000;16
+Lignite;lignite;S;200;64
+Lithium;lithium;L;24000;64
+Logs;logs;S;300;64
+Methane;methane;L;3000;64
+Mushroom;mushroom;S;300;64
+Nitro-Coalfuel;nitrocoalfuel;L;18000;64
+Peat;peat;S;2000;64
+Planks;planks;S;300;64
+Reeds;reeds;S;50;64
+Saplings;saplings;S;100;64
+//Scrap;scrap;S;300;64
+//Scrapbox;scrapbox;S;3150;64
+Signs;signs;S;600;16
+Slabs;slabs;S;150;64
+Sticks;sticks;S;100;64
+//Vulcanite Dust;vulcanitedust;S;6400;64
+Wooden Tools;woodentools;S;200;1
+Wood Plate;woodplate;S;1600;64
+Wood Pulp;woodpulp;S;100;64

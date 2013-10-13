@@ -1,0 +1,35 @@
+Version: 1.0
+//name;id;state;heat;stacksize
+Cactus;cactus;S;50;64;vanilla
+Reeds;reeds;S;50;64;vanilla
+Saplings;saplings;S;100;64;vanilla
+Stick;stick;S;100;64;vanilla
+//Wood Pulp;woodpulp;S;100;64;gregtech
+Lignite;lignite;S;200;64;undergroundbiomes
+Wooden Slab;woodenslab;S;150;64;vanilla
+Wooden Tools;woodentools;S;200;1;vanilla
+Mushroom;mushroom;S;300;64;vanilla
+Log;log;S;300;64;vanilla
+Planks;planks;S;300;64;vanilla
+Sign;sign;S;600;16;vanilla
+Blaze Rods;blazerods;S;800;64;vanilla
+Lava;lava;S;1000;16;vanilla
+Charcoal;charcoal;S;1600;64;vanilla
+//Wood Plate;woodplate;S;1600;64;gregtech
+Wooden Door;woodendoor;S;1800;1;vanilla
+Hydrogen;hydrogen;L;2000;64;gregtech
+Peat;peat;S;2000;64;forestry
+//Methane;methane;L;3000;64;gregtech
+Coal;coal;S;3200;64;vanilla
+Bituminous Peat;bituminouspeat;S;4200;64;forestry
+Creosote Oil;creosoteoil;L;4800;16;railcraft
+Anthracite Coal Block;anthracite;S;6400;64;undergroundbiomes
+//Alumentum;alumentum;S;6400;64;thaumcraft
+Coal Coke;coalcoke;S;6400;64;railcraft
+Block of Coal;blockcoal;S;16000;64;vanilla
+Nitro-Coalfuel;nitrocoalfuel;L;18000;64;gregtech
+//Lithium;lithium;L;24000;64;gregtech
+Ethanol;ethanol;L;32000;16;forestry
+Block of Coal Coke;blockcoalcoke;S;57600;64;railcraft
+Diesel;diesel;L;96000;64;gregtech
+Fuel;fuel;L;96000;16;buildcraft

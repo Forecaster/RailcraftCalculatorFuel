@@ -1,0 +1,32 @@
+Version: 1.0
+Alumentum;alumentum;S;6400;64
+Anthracite Coal Block;anthracite;S;6400;64
+Biofuel;biofuel;L;32000;64
+Bituminous Peat;bituminouspeat;S;4200;64
+Blaze Rods;blazerods;S;800;64
+Charcoal;charcoal;S;1600;64
+Coal;coal;S;3200;64
+Coal Coke;coalcoke;S;6400;64
+Creosote Oil;creosoteoil;L;3200;16
+Fuel;fuel;L;96000;64
+Fuel Can;fuelcan;S;10000;1
+Hydrogen;hydrogen;L;2000;16
+Ignatius Dust;ignatiusdust;S;3200;64
+Lava;lava;S;1000;16
+Lignite;lignite;S;200;64
+Lithium;lithium;L;24000;64
+Logs;logs;S;300;64
+Methane;methane;L;3000;16
+Nitro-coal fuel;nitrocoalfuel;L;18000;64
+Peat;peat;S;1600;64
+Planks;planks;S;300;64
+Reeds;reeds;S;50;64
+Saplings;saplings;S;100;64
+//Scrap;scrap;S;300;64
+//Scrapbox;scrapbox;S;3150;64
+Signs;signs;S;600;16
+Slabs;slabs;S;150;64
+Sticks;sticks;S;100;64
+Vulcanite Dust;vulcanitedust;S;6400;64
+Wooden Tools;woodentools;S;200;1
+Wood Plate;woodplate;S;1600;64
