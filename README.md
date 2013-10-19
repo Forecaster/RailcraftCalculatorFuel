@@ -26,7 +26,7 @@ display name;id;state;fuel value;stacksize;origin
 
 "Display name" is what is shown in the fuel selection list, it may contain spaces.
 
-"id" is used internally and cannot contain spaces.
+"id" is used internally and cannot contain spaces. Has to be unique.
 
 "state" can be either S for solid or L for fluid/liquid. It is used for filtering.
 
