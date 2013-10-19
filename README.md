@@ -1,9 +1,9 @@
 RailcraftCalculatorFuel
 ===============================
 
- -- Syntax --
+ -- Version syntax --
 
-Version no longer needs to be the first line. It now searches for "Version=" so it can be positioned anywhere, or omitted, in which case it will not display the Version: line in the fuel list panel.
+Version no longer needs to be the first line. It now searches for "Version=" (case sensitive) so it can be positioned anywhere, or omitted, in which case it will not display the Version: x line in the fuel list panel.
 
 Version syntax:
 
@@ -11,12 +11,16 @@ Version=x
 
 Version scheme here is arbitrary. Currently only displayed in the fuel list panel when the file is selected.
 Not really important anymore since this repository will replace the fuel list changelog.
+If you do make a change you can increment the existing number by one.
 
+ -- Comment syntax --
 
+A comment line is any line starting with //
+These lines will be ignored by the parser. This can be used to have it ignore a fuel definition or to add comments or descriptions.
 
-The rest of the file can either be comments, which is any line starting with //
-
-or a fuel definition of which the syntax is the following:
+ -- Fuel syntax --
+ 
+A fuel definition of which the syntax is the following:
 
 display name;id;state;fuel value;stacksize;origin
 
