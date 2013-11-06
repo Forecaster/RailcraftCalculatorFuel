@@ -29,7 +29,7 @@ Coal Coke;coalcoke;S;6400;64;railcraft
 Block of Coal;blockcoal;S;16000;64;vanilla
 Nitro-Coalfuel;nitrocoalfuel;L;18000;64;gregtech
 //Lithium;lithium;L;24000;64;gregtech
-Ethanol;ethanol;L;32000;16;forestry
+Ethanol;ethanol;L;8000;16;forestry
 Block of Coal Coke;blockcoalcoke;S;57600;64;railcraft
-Diesel;diesel;L;96000;64;gregtech
-Fuel;fuel;L;96000;16;buildcraft
+Diesel;diesel;L;24000;64;gregtech
+Fuel;fuel;L;24000;16;buildcraft
