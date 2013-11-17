@@ -1,4 +1,5 @@
 ﻿Version=2.0
+//Enabled=true
 //name;id;state;heat;stacksize
 Alumentum;alumentum;S;6400;64
 Anthracite Coal Block;anthracite;S;6400;64
