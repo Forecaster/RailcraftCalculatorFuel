@@ -13,6 +13,12 @@ Version scheme here is arbitrary. Currently only displayed in the fuel list pane
 Not really important anymore since this repository will replace the fuel list changelog.
 If you do make a change you can increment the existing number by one.
 
+ -- Display --
+
+If the exact string "Enabled=true" cannot be found somewhere within the file, this fuel list will not be displayed in the selection box.
+The string is case-sensitive but can be prefixed or suffixed by anything.
+It should be commented out or it will also be attempted to be parsed as a fuel definition.
+
  -- Comment syntax --
 
 A comment line is any line starting with //
