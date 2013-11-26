@@ -1,11 +1,9 @@
 RailcraftCalculatorFuel
 ===============================
 
- -- Version syntax --
+ -- Version --
 
 Version no longer needs to be the first line. It now searches for "Version=" (case sensitive) so it can be positioned anywhere, or omitted, in which case it will not display the Version: x line in the fuel list panel.
-
-Version syntax:
 
 Version=x
 
@@ -17,14 +15,22 @@ If you do make a change you can increment the existing number by one.
 
 If the exact string "Enabled=true" cannot be found somewhere within the file, this fuel list will not be displayed in the selection box.
 The string is case-sensitive but can be prefixed or suffixed by anything.
-It should be commented out or it will also be attempted to be parsed as a fuel definition.
 
- -- Comment syntax --
+ -- Heatupsystem --
+ 
+Heatupsystem will tell the boiler which system to use when calculating heatup, cooldown and fuel use.
+
+1 is the system in versions prior to 8.3.
+2 is the system currently only in 8.3.
+
+Any other number or ommission will result in it defaulting to the latest system.
+
+ -- Comments --
 
 A comment line is any line starting with //
 These lines will be ignored by the parser. This can be used to have it ignore a fuel definition or to add comments or descriptions.
 
- -- Fuel syntax --
+ -- Fuel --
  
 A fuel definition of which the syntax is the following:
 

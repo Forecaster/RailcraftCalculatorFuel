@@ -1,5 +1,6 @@
 ﻿Version=2.0
-//Enabled=true
+Enabled=true
+Heatupsystem=1
 //name;id;state;heat;stacksize
 Alumentum;alumentum;S;6400;64
 Anthracite Coal Block;anthracite;S;6400;64
