@@ -1,5 +1,4 @@
-﻿Version=1.0
-Enabled=false
+﻿Enabled=true
 Heatupsystem=2
 //name;id;state;heat;stacksize
 Cactus;cactus;S;50;64;vanilla
@@ -22,7 +21,7 @@ Wooden Door;woodendoor;S;1800;1;vanilla
 Hydrogen;hydrogen;L;2000;64;gregtech
 Peat;peat;S;2000;64;forestry
 //Methane;methane;L;3000;64;gregtech
-Coal;coal;S;3200;64;vanilla
+Coal;coal;S;1600;64;vanilla
 Bituminous Peat;bituminouspeat;S;4200;64;forestry
 Creosote Oil;creosoteoil;L;4800;16;railcraft
 Anthracite Coal Block;anthracite;S;6400;64;undergroundbiomes
